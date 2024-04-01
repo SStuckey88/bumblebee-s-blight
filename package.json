@@ -3,9 +3,14 @@
   "displayName": "BumbleBee's Blight",
   "description": "A simple high contrast color theme",
   "version": "0.0.1",
+  "publisher": "CodeColorThemesGalore",
   "engines": {
     "vscode": "^1.87.0"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/macxandxcuthuhlu/bumblebee-s-blight",
+    },
   "categories": [
     "Themes"
   ],
@@ -17,5 +22,14 @@
         "path": "./themes/BumbleBee's Blight Color theme-color-theme.json"
       }
     ]
-  }
+  
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "macxandxcuthuhlu",
+    "bumblebee",
+    "bumblebee blight",
+    "high-contrast theme"
+  ]
 }
