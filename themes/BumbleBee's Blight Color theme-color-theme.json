@@ -3,10 +3,12 @@
 	"colors": {
 		"editor.background": "#030100",
 		"editor.foreground": "#ffffff",
+		
 
 		"contrastActiveBorder": "#e2a92b",
 		//"contrastBorder": "#1EC4F26f",
 		"contrastBorder": "#fcb43a67",
+
 
 		"foreground": "#eddfc4",
 		"descriptionForeground": "#dbbf2c",
@@ -22,7 +24,18 @@
 		"activityBar.foreground": "#ffe66c",
 		"activityBar.border": "#fcb43aff",
 
+		"titleBar.activeForeground": "#eddfc4",
+		"titleBar.border": "#fcb43aff",
+		"menubar.selectionBorder": "#00a6ffba",
+
+		"terminal.border": "#ff0000",
+
+		"button.background": "#eddfc4",
+		"button.foreground": "#000040",
+		"button.border": "#00a6ffba",
+		
 		"sideBar.background" : "#17161c",
+		//"sideBar.foreground" : "#b8dbd2",
 		"sideBar.foreground" : "#afcbff",
 		"sideBar.border": "#fcb43aff",
 		"sideBarSectionHeader.border": "#fcb43aff",
