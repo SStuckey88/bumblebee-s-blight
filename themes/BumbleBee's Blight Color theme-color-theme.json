@@ -18,6 +18,7 @@
 
 		"list.focusBackground":"#14b1b1ff",
 		"list.activeSelectionBackground": "#14b1b1ff",
+		"list.activeSelectionForeground": "#ffd900",
 
 		//"activityBar.background": "#afcbff",
 		"activityBar.background": "#0b0a0a",
@@ -66,13 +67,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#7ca668"
+				"foreground": "#90eaf8"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#f69cd6"
 			}
 		},
 		{
@@ -83,7 +84,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#15cea8"
 			}
 		},
 		{
@@ -186,67 +187,67 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#282d31"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#3d3431"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#222420"
 			}
 		},
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#394f5b"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#008cff"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#96eaa4"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#ff9cd6"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#deb3e5"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#ff2128"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#ff0000"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#d16969"
+				"foreground": "#ff6969"
 			}
 		},
 		{
@@ -270,25 +271,25 @@
 				"variable.other.less"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#ff0444"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#b8dbd2"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#f69cd6"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#f98e02"
 			}
 		},
 		{
@@ -300,7 +301,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#eea7d5"
 			}
 		},
 		{
@@ -336,7 +337,7 @@
 			"name": "coloring of the TS this",
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#f07706"
 			}
 		},
 		{
@@ -361,7 +362,7 @@
 				"source.cs storage.type"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#52cea5"
 			}
 		},
 		{
@@ -375,14 +376,14 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#fb9781"
 			}
 		},
 		{
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#9de56f"
 			}
 		},
 		{
@@ -393,7 +394,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#e1ce59"
 			}
 		},
 		{
