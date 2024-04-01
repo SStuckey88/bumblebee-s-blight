@@ -1,0 +1,21 @@
+{
+  "name": "bumblebee-s-blight",
+  "displayName": "BumbleBee's Blight",
+  "description": "A simple high contrast color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BumbleBee's Blight Color theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/BumbleBee's Blight Color theme-color-theme.json"
+      }
+    ]
+  }
+}
