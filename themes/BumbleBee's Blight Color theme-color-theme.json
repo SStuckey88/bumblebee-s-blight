@@ -1,7 +1,7 @@
 {
 	"name": "BumbleBee's Blight Color theme",
 	"colors": {
-		"editor.background": "#030100",
+		"editor.background": "#020100ff",
 		"editor.foreground": "#ffffff",
 		
 
@@ -29,7 +29,6 @@
 		"titleBar.border": "#fcb43aff",
 		"menubar.selectionBorder": "#00a6ffba",
 
-		"terminal.border": "#ff0000",
 
 		"button.background": "#eddfc4",
 		"button.foreground": "#000040",
